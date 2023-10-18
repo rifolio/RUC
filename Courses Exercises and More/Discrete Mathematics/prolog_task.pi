@@ -1,0 +1,37 @@
+% conjunction (and its negation)
+solve([[and(P, Q)|Branch]|Rest], Updated) :-
+    solve([[P,Q|Branch]|Rest], Updated).
+
+solve([[not(and(P, Q))|Branch]|Rest], Updated) :-
+    solve([[not(P)|Branch],[not(Q)|Branch]|Rest], Updated).
+
+% disjunction (and its negation)
+solve([[or(P, Q)|Branch]|Rest], Updated) :-
+    solve([[P|Branch], [Q|Branch]|Rest], Updated).
+
+solve([[not(or(P,Q))|Branch]|Rest], Updated) :-
+    solve([[not(P),not(Q)|Branch]|Rest], Updated).
+
+% negation
+solve([[(not(not(X)))|Branch]|Rest], Updated) :-
+    solve([[X|Branch]|Rest], Updated).
+
+% when list of expressions is empty
+solve([[ ] |Updated], [[]|Empty]) :-
+    solve(Updated, Empty).
+
+%if branch is empty
+solve([ ],[ ]).
+
+% program logic
+solve([[X|Branch]|Updated], Final) :-
+    solve([Branch], Empty),
+    distribute(X, Empty, Overal),
+    solve(Updated, Overal2),
+    append(Overal, Overal2, Final).
+
+% data distribution
+distribute(X, [Branch|Rest], [[X|Branch]|Updated]) :-
+    distribute(X, Rest, Updated).
+
+distribute(_, [ ], []).
