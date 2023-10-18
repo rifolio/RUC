@@ -1,4 +1,4 @@
-public class hellouniverse {
+public class ellouniverse {
     public static void main(String[] args) {
         // generating some simple outputs
         System.out.println("Hello, Universe!");
