@@ -1,0 +1,468 @@
+name,age,gender,raceethnicity,month,day,year,city,state,latitude,longitude,cause,armed
+A'donte Washington,16,Male,Black,2,23,2015,Millbrook,AL,32.529577,-86.362829,Gunshot,No
+Aaron Rutledge,27,Male,White,4,2,2015,Pineville,LA,31.3217392,-92.4348602,Gunshot,No
+Aaron Siler,26,Male,White,3,14,2015,Kenosha,WI,42.5835597,-87.8357101,Gunshot,No
+Aaron Valdez,25,Male,Hispanic/Latino,3,11,2015,South Gate,CA,33.9392976,-118.2194634,Gunshot,Firearm
+Adam Jovicic,29,Male,White,3,19,2015,Munroe Falls,OH,41.1485748,-81.4298782,Gunshot,No
+Adam Reinhart,29,Male,White,3,7,2015,Phoenix,AZ,33.4693799,-112.0433197,Gunshot,No
+Adrian Hernandez,22,Male,Hispanic/Latino,3,27,2015,Bakersfield,CA,35.3956975,-119.0027449,Gunshot,Firearm
+Adrian Solis,35,Male,Hispanic/Latino,3,26,2015,Wilmington,CA,33.7930495,-118.2709256,Gunshot,Non-lethal firearm
+Alan Alverson,44,Male,White,1,28,2015,Sunset,TX,30.6653042,-96.4014816,Gunshot,Firearm
+Alan James,31,Male,White,2,7,2015,Wyoming,MI,42.8932381,-85.6605835,Gunshot,Other
+Albert Hanson Jr,76,Male,White,4,26,2015,Hanford,CA,36.2109603,-119.5828798,Gunshot,Knife
+Alec Ouzounian,40,Male,White,5,12,2015,Rancho Santa Margarita,CA,33.6533852,-117.6133728,Gunshot,No
+Alejandro Salazar,,Male,Hispanic/Latino,2,20,2015,Houston,TX,29.9832049,-95.4038566,Gunshot,No
+Alexander Long,31,Male,White,2,25,2015,Terre Haute ,IN,39.4629302,-87.3788602,Gunshot,Firearm
+Alexander Myers,23,Male,White,4,6,2015,Indianapolis,IN,39.7669106,-86.1499634,Gunshot,Non-lethal firearm
+Alexander Rivera,39,Male,Hispanic/Latino,5,30,2015,Nashville,TN,36.1259117,-86.7090149,Gunshot,Firearm
+Alexia Christian,25,Female,Black,4,30,2015,Atlanta,GA,33.7512627,-84.3930283,Gunshot,Vehicle
+Alfredo Rials-Torres,54,Male,Hispanic/Latino,5,19,2015,Arlington,VA,38.8731527,-77.1050099,Gunshot,Firearm
+Alice Brown,24,Female,White,3,17,2015,San Francisco,CA,37.7894309,-122.4220984,Gunshot,Firearm
+Alvin Haynes,57,Male,Black,1,26,2015,San Francisco,CA,37.6279793,-122.4539337,Death in custody,No
+Amilcar Perez-Lopez,21,Male,Hispanic/Latino,2,26,2015,San Francisco,CA,37.7525108,-122.4140801,Gunshot,Vehicle
+Andre Murphy Sr,42,Male,Black,1,7,2015,Norfolk,NE,42.0185249,-97.3862886,Death in custody,No
+Andres Lara-Rodriguez,21,Male,Hispanic/Latino,2,13,2015,Kansas City,KS,39.0714403,-94.6402303,Gunshot,Other
+Andrew Driver,36,Male,White,3,13,2015,Fontana,CA,34.0774421,-117.4297614,Gunshot,Firearm
+Andrew Jackson,26,Male,White,4,29,2015,Chickasha,OK,35.0401063,-97.9480673,Gunshot,Firearm
+Andrew Shipley,49,Male,White,3,17,2015,Medford,OR,42.3301735,-122.898735,Gunshot,Firearm
+Andrew Toto,54,Male,White,1,21,2015,Derry,NH,42.9080801,-71.3366499,Gunshot,Firearm
+Andrew Valadez,26,Male,White,4,23,2015,Sylmar,CA,34.31029,-118.4531897,Gunshot,Firearm
+Andrew Williams,48,Male,Black,3,6,2015,Putnam Hall,FL,29.743281,-81.963951,Gunshot,Firearm
+Andy Martinez,33,Male,Hispanic/Latino,1,9,2015,El Paso,TX,31.8576378,-106.4396178,Gunshot,Firearm
+Angel Corona Jr,21,Male,Hispanic/Latino,4,10,2015,Corning,CA,39.9362717,-122.2013168,Gunshot,Knife
+Angelo West,41,Male,Black,3,27,2015,Roxbury,MA,42.3126099,-71.0899229,Gunshot,Firearm
+Anthony Bess,48,Male,Black,2,10,2015,Memphis,TN,35.0246391,-90.0544891,Gunshot,Vehicle
+Anthony Briggs,36,Male,Black,5,25,2015,Huntsville,AL,34.6168404,-86.5641098,Gunshot,Knife
+Anthony Giaquinta,41,Male,Hispanic/Latino,2,22,2015,Clarkesville,GA,34.6314812,-83.5972519,Gunshot,Firearm
+Anthony Gomez Jr,29,Male,Black,5,19,2015,Lancaster,PA,40.0434474,-76.2999885,Gunshot,Knife
+Anthony Hill,27,Male,Black,3,9,2015,Chamblee,GA,33.8942184,-84.3032227,Gunshot,No
+Anthony Purvis,45,Male,White,2,3,2015,Douglas,GA,31.5233612,-82.8451767,Gunshot,Firearm
+Antonio Perez,32,Male,Hispanic/Latino,3,12,2015,Los Angeles,CA,34.0280075,-118.2735977,Gunshot,Firearm
+Antonio Zambrano-Montes,35,Male,Hispanic/Latino,2,10,2015,Pasco,WA,46.2285118,-119.1019287,Gunshot,Firearm
+Artago Howard,36,Male,Black,1,8,2015,Strong,AR,33.1112823,-92.3590775,Gunshot,Firearm
+Askari Roberts,35,Male,Black,3,17,2015,Rome,GA,34.2185669,-85.3869934,Taser,Knife
+Aurelio Duarte,40,Male,Hispanic/Latino,3,8,2015,Oklahoma City,OK,35.4262543,-97.5826111,Gunshot,Vehicle
+Austin Goodner,18,Male,White,5,17,2015,St Petersburg,FL,27.8200741,-82.6588058,Gunshot,Firearm
+Autumn Steele,34,Female,White,1,6,2015,Burlington,IA,40.8100281,-91.1185837,Gunshot,Firearm
+Benito Osorio,39,Male,Hispanic/Latino,3,11,2015,Santa Ana,CA,33.7431641,-117.867981,Gunshot,Knife
+Benjamin Quezada,21,Male,Hispanic/Latino,3,31,2015,Baytown,TX,29.7330154,-94.9706357,Gunshot,Other
+Bernard Moore,62,Male,Black,3,6,2015,Atlanta,GA,33.7033899,-84.4080502,Struck by vehicle,No
+Betty Sexton,43,Female,White,2,17,2015,Gastonia,NC,35.2286491,-81.1696243,Gunshot,Firearm
+Billy Grimm,44,Male,White,5,3,2015,Albuquerque,NM,35.05179,-106.6883397,Gunshot,Firearm
+Billy Patrick,29,Male,White,4,26,2015,Bunch,OK,35.6848412,-94.7619019,Gunshot,Firearm
+Bobby Gross,35,Male,Black,3,12,2015,Washington,DC,38.8984573,-77.032015,Gunshot,Firearm
+Bradford Leonard,50,Male,White,2,22,2015,Palm Bay,FL,27.9906769,-80.6457672,Gunshot,Knife
+Brandon Jones,18,Male,Black,3,19,2015,Cleveland,OH,41.5285759,-81.6090775,Gunshot,Firearm
+Brandon Lawrence,25,Male,White,4,25,2015,Victoria,TX,28.8776989,-97.0015351,Gunshot,Firearm
+Brandon Rapp,31,Male,White,3,18,2015,Middleton,ID,43.7041283,-116.5797195,Gunshot,Knife
+Brendon Glenn,29,Male,Black,5,6,2015,Los Angeles,CA,33.9877281,-118.4717178,Gunshot,Firearm
+Brian Babb,49,Male,White,3,31,2015,Eugene,OR,44.0894276,-123.1812222,Gunshot,Firearm
+Brian Barbosa,23,Male,,1,11,2015,South Gate,CA,33.9523485,-118.1889472,Gunshot,Firearm
+Brian Fritze,45,Male,White,2,10,2015,Glenwood Springs,CO,39.5608522,-107.3613187,Gunshot,Knife
+Brian Pickett,26,Male,Black,1,6,2015,Los Angeles,CA,33.9208252,-118.2461601,Taser,Firearm
+Brock Nichols,35,Male,White,1,6,2015,Assaria,KS,38.7112324,-97.5695687,Gunshot,Knife
+Bruce Steward,34,Male,White,2,15,2015,Colton,OR,45.1577606,-122.4377594,Gunshot,Non-lethal firearm
+Bruce Zalonka,46,Male,Asian/Pacific Islander,5,12,2015,Honolulu,HI,21.3106435,-157.8625984,Gunshot,No
+Byron Herbert,29,Male,Black,3,29,2015,Elizabethtown,KY,37.734657,-85.888427,Gunshot,Knife
+Calvon Reid,39,Male,Black,2,22,2015,Coconut Creek,FL,26.256782,-80.167854,Taser,Firearm
+Carl Lao,28,Male,Asian/Pacific Islander,3,4,2015,Stockton,CA,37.9482801,-121.2858499,Gunshot,Knife
+Carlos Saavedra Ramirez,51,Male,Hispanic/Latino,4,22,2015,Bisbee,AZ,31.3995342,-109.9178085,Gunshot,Knife
+Carter Ray Castle,67,Male,White,1,18,2015,Gunlock,KY,37.5631485,-82.9268265,Gunshot,Firearm
+Cary Martin,53,Male,White,5,14,2015,St 8ine,FL,29.850338,-81.2775116,Gunshot,Firearm
+Caso Jackson,25,Male,Black,5,23,2015,Detroit,MI,42.3859138,-83.1876144,Gunshot,No
+Cedrick Bishop,30,Male,Black,3,9,2015,Cocoa,FL,28.35171,-80.748771,Gunshot,Knife
+Celin Nunez,24,Male,Hispanic/Latino,4,13,2015,Houston,TX,29.9494667,-95.4163284,Gunshot,No
+Chance Thompson,35,Male,White,2,15,2015,Marysville,CA,39.1221504,-121.5654984,Taser,Firearm
+Charly 'Africa' Keunang,43,Male,Black,3,1,2015,Los Angeles,CA,34.0437775,-118.243721,Gunshot,Vehicle
+Chazsten Freeman,24,Male,White,2,27,2015,Peltzer,SC,34.6285944,-82.3912225,Gunshot,Firearm
+Chris Ingram,29,Male,White,1,27,2015,Morenci,AZ,33.0515518,-109.3249283,Gunshot,Firearm
+Chrislon Talbott,38,Male,Black,5,21,2015,Owensboro,KY,37.7242317,-87.1226807,Gunshot,Firearm
+Christopher Finley,31,Male,White,4,14,2015,Jonesboro,AR,35.8342552,-90.7173691,Gunshot,No
+Christopher Healy,36,Male,White,3,22,2015,Portland,OR,45.5057439,-122.5299,Gunshot,Other
+Christopher Mitchell,23,Male,White,3,10,2015,Port Wentworth,GA,32.1656761,-81.1842117,Gunshot,Firearm
+Christopher Prevatt,38,Male,White,4,3,2015,Winchester,VA,39.1907845,-78.128479,Gunshot,Firearm
+Clifton Reintzel,53,Male,White,3,13,2015,Follansbee,WV,40.3233614,-80.5951533,Gunshot,No
+Cody Evans,24,Male,White,2,15,2015,Provo,UT,40.2463989,-111.6674271,Gunshot,Knife
+Cody Karasek,26,Male,White,1,28,2015,Rosenberg,TX,29.5576077,-95.7844925,Gunshot,Firearm
+Cornelius Parker,28,Male,Black,2,28,2015,Columbia,MO,38.9464501,-92.2934712,Gunshot,Firearm
+Crystal Miley,34,Female,White,2,26,2015,Moultrie,GA,31.0882878,-83.6398052,Gunshot,Knife
+D'Angelo Stallworth,28,Male,Black,5,12,2015,Jacksonville,FL,30.2145387,-81.7372566,Gunshot,Firearm
+DaJuan Graham,40,Male,Black,5,12,2015,Silver Spring,MD,39.0841484,-76.9422684,Taser,Firearm
+Dalton Branch,51,Male,Black,5,26,2015,New York,NY,40.6572562,-73.8886551,Gunshot,No
+Dana Hlavinka,44,Male,White,4,19,2015,Sidney,NE,41.121974,-102.982879,Gunshot,Firearm
+Daniel Brumley,25,Male,Hispanic/Latino,1,17,2015,Fort Worth,TX,32.810365,-97.342555,Gunshot,Firearm
+Daniel Caldwell,56,Male,White,2,16,2015,Marana,AZ,32.3580589,-111.0924911,Gunshot,Knife
+Daniel Covarrubias,37,Male,Hispanic/Latino,4,21,2015,Lakewood,WA,47.1592102,-122.4849472,Gunshot,Firearm
+Daniel Davis,58,Male,White,4,25,2015,Clermont,FL,28.5670815,-81.8123245,Gunshot,Firearm
+Daniel Elrod,39,Male,White,2,24,2015,Omaha,NE,41.2427938,-95.9331281,Gunshot,Firearm
+Daniel Mejia,37,Male,Hispanic/Latino,2,15,2015,San Manuel,AZ,32.6101336,-110.6317321,Gunshot,No
+Daniel Wolfe,35,Male,Black,4,21,2015,Union,NJ,40.7107079,-74.2532176,Gunshot,Knife
+Darin Hutchins,26,Male,Black,1,24,2015,Baltimore,MD,39.2844658,-76.6468658,Gunshot,Firearm
+Darrell 'Hubbard' Gatewood,47,Male,Black,3,1,2015,Oklahoma City,OK,35.4057617,-97.524292,Taser,Firearm
+Darrell Brown,31,Male,Black,4,16,2015,Hagerstown,MD,39.6494503,-77.7206332,Taser,Firearm
+Darrell Morgan,60,Male,White,5,28,2015,Lancaster,SC,34.7966959,-80.7973288,Gunshot,No
+Darrin Langford,32,Male,Black,4,2,2015,Rock Island,IL,41.4996099,-90.5816397,Gunshot,No
+Daryl Myler,45,Male,White,1,24,2015,Rexburg,ID,43.8255653,-111.7787094,Gunshot,Non-lethal firearm
+David Cuevas,42,Male,Hispanic/Latino,2,26,2015,Lakeland,FL,28.1034451,-81.9506454,Gunshot,Firearm
+David Gaines,17,Male,White,5,19,2015,Grand Junction,CO,39.0733903,-108.5559598,Gunshot,Firearm
+David Gandara,22,Male,Hispanic/Latino,5,21,2015,El Paso,TX,31.9034023,-106.4228592,Gunshot,Firearm
+David Garcia,33,Male,Hispanic/Latino,1,26,2015,Wasco,CA,35.5890732,-119.3347549,Gunshot,Firearm
+David Johnson,18,Male,White,5,7,2015,Wake Forest,NC,35.9575348,-78.527153,Gunshot,No
+David Kapuscinski,39,Male,White,4,16,2015,Rockwood,MI,42.0951881,-83.2008743,Taser,Firearm
+David Kassick,59,Male,White,2,2,2015,Hanover,PA,39.7720299,-76.9661789,Gunshot,Firearm
+David Lynch,33,Male,White,4,3,2015,Muskogee County,OK,35.7550087,-95.4025574,Taser,Firearm
+David Parker,58,Male,White,4,28,2015,Mansfield,OH,40.7386665,-82.5156326,Gunshot,Firearm
+David Schwalm,58,Male,White,5,8,2015,Constantania,NY,43.265415,-76.005973,Gunshot,No
+David Watford,47,Male,White,3,17,2015,Tallulah,LA,32.3727417,-91.1993637,Struck by vehicle,Firearm
+David Werblow,41,Male,White,3,15,2015,Branford,CT,41.2693481,-72.8428955,Taser,Other
+Dean Bucheit,64,Male,White,2,9,2015,Los Angeles,CA,34.0021591,-118.4123077,Struck by vehicle,Firearm
+Dean Genova,45,Male,White,4,26,2015,Garden Grove,CA,33.7610283,-117.953743,Gunshot,Firearm
+Deanne Choate,53,Female,White,3,26,2015,Gardner,KS,38.816658,-94.9135437,Gunshot,Firearm
+Declan Owen,24,Male,White,3,17,2015,Dublin,NC,34.6425728,-78.7416717,Gunshot,Knife
+Dedrick Marshall,48,Male,Black,5,8,2015,Harvey,LA,29.8598535,-90.0722601,Gunshot,Firearm
+Demaris Turner,29,Male,Black,1,23,2015,Lauderhill,FL,26.1503577,-80.2101228,Gunshot,No
+Denis Reyes,40,Male,Hispanic/Latino,5,15,2015,New York,NY,40.8646202,-73.8924332,Death in custody,Firearm
+Dennis Fiel,34,Male,White,5,17,2015,San Diego,CA,32.8019612,-117.154332,Gunshot,Vehicle
+Denzel Brown,21,Male,Black,3,22,2015,Bay Shore,NY,40.7399445,-73.2372284,Gunshot,Firearm
+Derek Cruice,26,Male,White,3,4,2015,Deltona,FL,28.8863035,-81.2532239,Gunshot,
+Desmond Luster,45,Male,Black,2,9,2015,Dallas,TX,32.6565955,-96.7502993,Gunshot,Firearm
+Desmond Willis,25,Male,Black,4,6,2015,Harvey,LA,29.8768171,-90.0489899,Gunshot,Firearm
+Deven Guilford,17,Male,White,3,1,2015,Roxand Township,MI,42.7556214,-84.8926637,Gunshot,Non-lethal firearm
+Devin Gates,24,Male,Black,3,22,2015,Santa Clara,CA,37.3612938,-121.959137,Gunshot,Other
+Dewayne Carr,42,Male,Black,1,15,2015,Scottsdale,AZ,33.50943,-111.9087198,Gunshot,Knife
+Dewayne Ward Jr,29,Male,Black,2,3,2015,Antioch,CA,37.9996185,-121.8187332,Gunshot,Firearm
+Dexter Bethea,42,Male,Black,4,8,2015,Valdosta,GA,30.8424794,-83.3328619,Gunshot,Knife
+Dominick Wise,30,Male,Black,3,30,2015,Culpeper,VA,38.4843175,-77.9793973,Taser,Firearm
+Don Smith,29,Male,Black,4,9,2015,Monon,IN,40.8749496,-86.8776412,Gunshot,Firearm
+Donald 'Dontay' Ivy,39,Male,Black,4,2,2015,Albany,NY,42.6610199,-73.7579497,Taser,Firearm
+Donald Hicks,63,Male,White,4,2,2015,Metropolis,IL,37.1760399,-88.6766698,Gunshot,Non-lethal firearm
+Donald Matkins,49,Male,White,3,1,2015,Lucedale,MS,30.8003197,-88.6320801,Gunshot,Firearm
+Donte Noble,41,Male,Black,4,15,2015,Spartanburg,SC,34.9038367,-81.9115352,Gunshot,Firearm
+Donte Sowell,27,Male,Black,1,15,2015,Indianapolis,IN,39.8262703,-85.9910497,Gunshot,Other
+Doug Sparks,30,Male,White,2,17,2015,Tewksbury,MA,42.6146317,-71.2831421,Gunshot,No
+Douglas Faith,60,Male,White,4,8,2015,San Antonio,TX,29.4894164,-98.4276711,Gunshot,Knife
+Douglas Harris,77,Male,Black,3,27,2015,Birmingham,AL,33.5637512,-86.7238083,Gunshot,No
+Ebin Proctor,19,Male,,5,30,2015,Cottonwood,AZ,34.6895294,-111.9851837,Gunshot,No
+Edixon Franco,37,Male,Hispanic/Latino,3,10,2015,Ontario,CA,34.0500802,-117.6546599,Gunshot,Firearm
+Edward Bright Sr,54,Male,Black,1,31,2015,Randallstown,MD,39.3798716,-76.820209,Gunshot,Firearm
+Elias Cavazos,29,Male,Hispanic/Latino,4,17,2015,Hemet,CA,33.7439798,-116.95425,Gunshot,Firearm
+Elton Simpson,30,Male,Black,5,3,2015,Garland,TX,32.9599406,-96.6389561,Gunshot,No
+Elvin Diaz,24,Male,Hispanic/Latino,5,21,2015,Hackensack,NJ,40.9011307,-74.040863,Gunshot,Knife
+Enoch Gaver,21,Male,White,3,21,2015,Cottonwood,AZ,34.713047,-112.0006409,Gunshot,Firearm
+Eric Harris,44,Male,Black,4,2,2015,Tulsa,OK,36.1497383,-95.9933319,Gunshot,Firearm
+Eric Robinson,40,Male,White,5,23,2015,Eagar,AZ,34.1133387,-109.2914933,Gunshot,Firearm
+Erick Rose,32,Male,White,4,7,2015,Shawnee,OK,35.33308,-97.0646703,Gunshot,Knife
+Erick Sanchez,22,Male,Hispanic/Latino,4,30,2015,El Paso,TX,31.7398815,-106.3106995,Gunshot,Knife
+Erik Tellez,43,Male,White,4,18,2015,Phoenix,AZ,33.4802603,-112.0388203,Gunshot,Firearm
+Ernesto Flores,52,Male,Hispanic/Latino,4,15,2015,Pomona,CA,34.0511284,-117.720726,Gunshot,Knife
+Ernesto Javier Canepa Diaz,27,Male,Hispanic/Latino,2,27,2015,Santa Ana,CA,33.7470254,-117.8777748,Gunshot,No
+Ethan Noll,34,Male,White,4,4,2015,Edgewood,NM,35.0556297,-106.1947021,Gunshot,Vehicle
+Eugene Smith II,20,Male,White,3,17,2015,Onalaska,TX,30.706146,-94.930023,Gunshot,No
+Fednel Rhinvil,25,Male,Black,3,3,2015,Salisbury,MD,38.3791997,-75.6071202,Gunshot,Firearm
+Felix David,24,Male,Black,4,25,2015,New York,NY,40.5887968,-73.9643034,Gunshot,Knife
+Feras Morad,20,Male,,5,27,2015,Long Beach,CA,33.785408,-118.1393127,Gunshot,Firearm
+Fletcher Stewart,46,Male,White,2,11,2015,Dadeville,AL,32.864521,-85.7209778,Gunshot,Firearm
+Francis Rose III,42,Male,White,2,2,2015,Apple Valley,CA,34.4155171,-117.1768954,Gunshot,Firearm
+Francis Spivey,43,Male,White,2,25,2015,Las Vegas,NV,36.2421112,-115.0569458,Gunshot,Firearm
+Frank 'Trey' Shephard III,41,Male,Black,4,15,2015,Houston,TX,29.806377,-95.1731886,Gunshot,No
+Fred Liggett Jr,59,Male,White,3,13,2015,Kansas City,MO,38.9474373,-94.4866943,Gunshot,No
+Freddie Gray,25,Male,Black,4,12,2015,Baltimore,MD,39.3079703,-76.6448703,Death in custody,Firearm
+Fridoon Rawshannehad,42,Male,White,4,30,2015,San Diego,CA,32.7543667,-117.2051807,Gunshot,Firearm
+Garland Wingo,64,Male,White,3,18,2015,Tallahassee,FL,30.4609642,-84.2794113,Gunshot,Firearm
+Garrett Gagne,22,Male,White,1,1,2015,Chatham,MA,41.6848183,-69.966423,Struck by vehicle,
+Garrett Sandeno,24,Male,White,5,27,2015,Edmond,OK,35.6332283,-97.4577179,Gunshot,Knife
+Gary Collins,63,Male,White,4,25,2015,Miami,OK,36.8973899,-94.8865503,Gunshot,No
+Gary Kendrick,56,Male,White,3,27,2015,Encinitas,CA,33.0497403,-117.24153,Gunshot,No
+Gary Page,60,Male,White,3,21,2015,Harmony,IN,39.5332565,-87.0744171,Gunshot,No
+Gilbert Fleury,54,Male,White,3,11,2015,Bay Minette,AL,30.8661098,-87.880188,Gunshot,Firearm
+Glenn Lewis,37,Male,Black,2,25,2015,Oklahoma City,OK,35.4976883,-97.5500717,Gunshot,No
+Gordon Kimbrell Jr,22,Male,White,4,9,2015,Navarre,FL,30.4130363,-86.8348923,Gunshot,Firearm
+Gregory Smith,39,Male,White,3,30,2015,Crown Point,IN,41.4479828,-87.371109,Taser,Firearm
+Grover Sapp Jr,45,Male,White,4,18,2015,Panama City,FL,30.1703529,-85.7008362,Gunshot,Knife
+Harry Davis,57,Male,White,5,27,2015,Eatonton,GA,33.3434998,-83.2064702,Gunshot,No
+Harvey Oates,42,Male,White,3,27,2015,Fort Ashby,WV,39.481971,-78.812003,Gunshot,Firearm
+Hashim Abdul-Rasheed,41,Male,Black,1,7,2015,Columbus,OH,39.997512,-82.890052,Gunshot,Firearm
+Hector Morejon,19,Male,Hispanic/Latino,4,23,2015,Long Beach,CA,33.780946,-118.1735922,Gunshot,No
+Herbert Hill,26,Male,Black,2,6,2015,Oklahoma City,OK,35.4030647,-97.5325623,Gunshot,Knife
+Howard Brent Means Jr,34,Male,White,2,15,2015,Iuka,MS,34.8047029,-88.202415,Gunshot,No
+Howard Robbins,69,Male,White,1,16,2015,Stanford,KY,37.51334,-84.5990601,Struck by vehicle,No
+Hue Dang,64,Female,Asian/Pacific Islander,3,9,2015,Hackensack,NJ,40.8674316,-74.0377197,Struck by vehicle,No
+Hung Trieu,35,Male,Asian/Pacific Islander,2,2,2015,Houston,TX,29.704109,-95.621871,Gunshot,No
+Ian Sherrod,40,Male,Black,2,28,2015,Tarboro,NC,35.9069519,-77.5407562,Gunshot,No
+Isaac Holmes,19,Male,Black,1,21,2015,St Louis,MO,38.6609879,-90.2338638,Gunshot,Firearm
+Isaac Jimenez,27,Male,Hispanic/Latino,4,13,2015,Alton,IL,38.8918839,-90.1335983,Gunshot,No
+Izzy Colon,37,Male,Hispanic/Latino,2,4,2015,Orlando,FL,28.4995747,-81.3055038,Gunshot,Firearm
+Jacob Haglund,17,Male,White,2,2,2015,Bay City,MI,43.5996857,-83.8729324,Gunshot,Knife
+Jamalis Hall,39,Male,Black,3,27,2015,Fort Pierce,FL,27.4486504,-80.3266068,Gunshot,Firearm
+James Allen,74,Male,Black,2,7,2015,Gastonia,NC,35.2658062,-81.2271642,Gunshot,Firearm
+James Barker,42,Male,White,1,8,2015,Salt Lake City,UT,40.7716665,-111.8714082,Gunshot,Firearm
+James Bushey,47,Male,White,6,1,2015,Palestine,TX,31.774197,-95.6519569,Gunshot,No
+James Cooper,43,Male,White,5,20,2015,Charleston,SC,32.8577843,-80.0776596,Gunshot,Knife
+James Damon,46,Male,White,3,9,2015,Craig,CO,40.5144005,-107.4890213,Gunshot,No
+James Ellis,44,Male,White,3,21,2015,Clarendon,NY,43.1940384,-78.065712,Gunshot,Firearm
+James Greenwell,31,Male,White,3,11,2015,Memphis,TN,35.1571117,-90.0000664,Gunshot,Other
+James Horn Jr,47,Male,White,5,23,2015,Green Ridge,MO,38.6578484,-93.5117188,Gunshot,Firearm
+James Jimenez,41,Male,Hispanic/Latino,3,13,2015,Napa,CA,38.306118,-122.2744522,Gunshot,Firearm
+James Moore,43,Male,White,3,22,2015,Tulsa,OK,36.0787522,-95.9580338,Struck by vehicle,Vehicle
+James Morris,40,Male,,5,31,2015,Medford,OR,42.311009,-122.8316269,Gunshot,Non-lethal firearm
+James Strong,32,Male,Black,5,28,2015,Northglenn,CO,39.8945198,-104.9772263,Gunshot,Firearm
+Jamie Croom,31,Male,Black,3,10,2015,Baton Rouge,LA,30.5366734,-91.1694337,Gunshot,Vehicle
+Jamison Childress,20,Male,White,3,19,2015,Sumas,WA,49.0000114,-122.2853775,Gunshot,Firearm
+Janisha Fonville,20,Female,Black,2,19,2015,Charlotte,NC,35.2506218,-80.8187485,Gunshot,Firearm
+Jared Forsyth,33,Male,White,4,6,2015,Ocala,FL,29.3102512,-82.1930542,Gunshot,No
+Jared Johnson,22,Male,Black,4,28,2015,New Orleans,LA,30.0135784,-89.988533,Gunshot,Other
+Jason Carter,41,Male,White,2,21,2015,Rudioso,NM,33.3267975,-105.6342545,Gunshot,No
+Jason Champion,41,Male,Black,5,6,2015,Ridgefield Park,NJ,40.86306,-74.0112915,Struck by vehicle,No
+Jason Evans,32,Male,White,4,12,2015,Salemburg,NC,35.0643602,-78.4907397,Gunshot,Knife
+Jason Hendrix,16,Male,White,2,14,2015,Essex,MD,39.2983478,-76.4401614,Gunshot,Firearm
+Jason Moland,29,Male,Black,3,30,2015,Modesto,CA,37.6910477,-120.9706879,Gunshot,Knife
+Jason Smith,42,Male,White,3,20,2015,Columbus,OH,40.059024,-82.997337,Gunshot,
+Javoris Washington,29,Male,Black,5,21,2015,Fort Lauderdale,FL,26.1071098,-80.1828401,Gunshot,
+Jeff Alexander,47,Male,White,3,17,2015,Bakersfield,CA,35.376175,-119.0144849,Gunshot,Firearm
+Jeffery Adkins,53,Male,Black,4,30,2015,Emporia,VA,36.6105907,-77.5013888,Gunshot,Other
+Jeffery Kemp,18,Male,Black,4,17,2015,Chicago,IL,41.7607203,-87.57246,Gunshot,No
+Jeffrey Jackson,47,Male,White,3,22,2015,Williamsburg,KY,36.7391205,-84.1332397,Death in custody,Firearm
+Jeffrey Nielson,34,Male,White,1,14,2015,Draper,UT,40.5398552,-111.8872467,Gunshot,No
+Jeffrey Pitts,36,Male,White,5,31,2015,Conyers,GA,33.5961237,-84.0463328,Gunshot,Firearm
+Jeffrey Surnow,63,Male,White,3,1,2015,Waikoloa Village,HI,19.915194,-155.831754,Struck by vehicle,Firearm
+Jeremy Anderson,36,Male,White,3,31,2015,Tampa Bay,FL,28.1022091,-82.4886322,Gunshot,No
+Jeremy Kelly,27,Male,Black,3,25,2015,Johnsonville,SC,33.8190804,-79.4618912,Gunshot,Firearm
+Jeremy Lett,28,Male,Black,2,5,2015,Tallahassee,FL,30.4664764,-84.3292542,Gunshot,Vehicle
+Jermonte Fletcher,33,Male,Black,1,27,2015,Columbus,OH,39.879382,-82.9963372,Gunshot,No
+Jerome Caldwell,32,Male,Black,5,21,2015,Charleston,SC,32.7795741,-79.9380436,Gunshot,No
+Jerome Nichols,42,Male,White,2,23,2015,Allentown,PA,40.632019,-75.4338379,Gunshot,Knife
+Jess Leipold,31,Male,White,4,9,2015,Gettysburg,PA,39.8576944,-77.1596814,Gunshot,Firearm
+Jessica Hernandez,17,Female,Hispanic/Latino,1,26,2015,Denver,CO,39.7534,-104.9093599,Gunshot,Firearm
+Jessica Uribe,28,Female,,2,28,2015,Tuscon ,AZ,34.2929649,-111.6646957,Gunshot,Firearm
+Jessie Williams,24,Male,White,5,26,2015,Bossier City,LA,32.5170212,-93.7078476,Gunshot,Firearm
+Jimmy Foreman,71,Male,,1,9,2015,England,AR,34.5426491,-91.9658922,Gunshot,Firearm
+Jimmy Robinson Jr,51,Male,Black,2,4,2015,Waco,TX,31.593082,-97.108858,Gunshot,No
+Joaquin Hernandez,28,Male,Hispanic/Latino,2,4,2015,Phoenix,AZ,33.3781938,-111.978452,Gunshot,Other
+John Acree,53,Male,White,4,30,2015,Nashville,TN,36.0540047,-86.7787399,Gunshot,Firearm
+John Allen,54,Male,White,3,30,2015,Boulder City,NV,35.9727325,-114.8414688,Gunshot,No
+John Ballard Gorman,45,Male,White,1,21,2015,Robinsonville,MS,34.8307787,-90.32121,Gunshot,Firearm
+John Kaafi,33,Male,White,5,7,2015,Sarasota,FL,27.3431099,-82.5386202,,Other
+John Marshall,48,Male,White,1,30,2015,Billings,MT,45.789441,-108.5132285,Gunshot,Firearm
+John O'Keefe,34,Male,White,1,13,2015,Albuquerque,NM,35.0946403,-106.5861697,Gunshot,Firearm
+John Quintero,23,Male,Hispanic/Latino,1,3,2015,Wichita,KS,37.6939376,-97.2804936,Gunshot,Knife
+John Sawyer,35,Male,White,2,5,2015,Calimesa,CA,33.9951673,-117.0581017,Gunshot,Firearm
+John Whittaker,33,Male,Hispanic/Latino,2,10,2015,Anchorage,AK,61.2075577,-149.8582001,Gunshot,Knife
+Johnathon Guillory,32,Male,White,1,18,2015,Maricopa,AZ,33.0835686,-112.0429306,Gunshot,Firearm
+Jonathan Colley,52,Male,White,5,20,2015,Green,OH,40.9656982,-81.4294357,Gunshot,Firearm
+Jonathan Efraim,30,Male,White,4,22,2015,New York,NY,40.7098999,-73.7943573,Gunshot,No
+Jonathan Harden,23,Male,White,2,13,2015,San Bernadino,CA,34.164711,-117.3321762,Gunshot,Firearm
+Jonathan McIntosh,35,Male,White,5,19,2015,Cabot,AR,34.9675325,-92.0081317,Gunshot,Knife
+Jonathan Paul,42,Male,Black,3,12,2015,Arlington,TX,32.7282829,-97.1045675,Death in custody,No
+Jonathan Pierce,37,Male,White,2,12,2015,Port St Joe,FL,29.812402,-85.301915,Gunshot,No
+Jose Antonio Espinoza Ruiz,56,Male,Hispanic/Latino,1,23,2015,Levelland,TX,33.5913373,-102.3692241,Gunshot,No
+Jose Ceja,36,Male,Hispanic/Latino,1,15,2015,Fairfield,CA,38.2652893,-121.9976044,Gunshot,Disputed
+Jose Herrera,27,Male,Hispanic/Latino,4,22,2015,Delano,CA,35.7697792,-119.3015518,Gunshot,Firearm
+Joseph Biegert,30,Male,White,2,24,2015,Green Bay,WI,44.5266283,-88.0578916,Gunshot,Firearm
+Joseph Caffarello,31,Male,White,1,7,2015,Rosemont,IL,41.9897374,-87.8759104,Gunshot,Firearm
+Joseph Paffen,46,Male,White,2,8,2015,Orlando,FL,28.4805509,-81.3283666,Gunshot,Firearm
+Joseph Potts,51,Male,White,4,23,2015,Rufe,OK,34.1277084,-95.156517,Gunshot,Firearm
+Joseph Roy,72,Male,,5,7,2015,Lawrenceville,GA,33.9334145,-84.0869064,Gunshot,Firearm
+Joseph Slater,28,Male,White,4,15,2015,Highland,CA,34.1207352,-117.198616,Death in custody,Knife
+Joseph Tassinari,63,Male,White,3,24,2015,Glendale,AZ,33.5838023,-112.2006413,Gunshot,Firearm
+Joseph Weber,28,Male,White,4,8,2015,Sunnyvale,CA,37.4033102,-121.9956697,Gunshot,Firearm
+Joshua Deysie,33,Male,Hispanic/Latino,4,29,2015,Mesa,AZ,33.3896023,-111.8006046,Gunshot,Knife
+Joshua Garcia,24,Male,Hispanic/Latino,1,26,2015,Tahoka,TX,33.1661153,-101.6661762,Gunshot,Knife
+Joshua Green,27,Male,White,4,28,2015,Marion,IL,37.7308112,-88.9412637,Gunshot,Firearm
+Justin Fowler,24,Male,Native American,3,19,2015,Lukachukai,AZ,36.4117088,-109.25,Gunshot,Firearm
+Justin Tolkinen,28,Male,White,3,16,2015,St Paul,MN,44.9535713,-93.0245514,Gunshot,Firearm
+Justin Way,28,Male,White,5,11,2015,St 8ine,FL,29.9727812,-81.4809528,Gunshot,Firearm
+Justus Howell,17,Male,Black,4,4,2015,Zion,IL,42.4539375,-87.8439407,Gunshot,Firearm
+Karen Janks,46,Female,White,4,23,2015,Sebastopol,CA,38.3767128,-122.7918701,Gunshot,Vehicle
+Karl Taylor,52,Male,Black,4,14,2015,Fallsburg,NY,41.7404167,-74.5979552,Death in custody,Firearm
+Kavonda Payton,39,Male,Black,1,16,2015,Aurora,CO,39.7281647,-104.8446426,Gunshot,Vehicle
+Kaylene Stone,49,Female,White,3,18,2015,Peoria ,AZ,33.5812721,-112.2033386,Gunshot,Non-lethal firearm
+Kelvin Goldston,30,Male,Black,5,11,2015,Fort Worth,TX,32.6606293,-97.3954849,Gunshot,No
+Ken Cockerel,51,Male,White,4,3,2015,Phoenix,AZ,33.6546099,-112.1431998,Gunshot,No
+Kendre Alston,16,Male,Black,3,19,2015,Jacksonville,FL,30.3778403,-81.6836172,Gunshot,Firearm
+Kenneth Brown,18,Male,White,1,4,2015,Guthrie,OK,35.8801193,-97.4228592,Gunshot,Non-lethal firearm
+Kenneth Buck,22,Male,Hispanic/Latino,1,5,2015,Chandler,AZ,33.3269806,-111.8252487,Gunshot,No
+Kenneth Dothard,40,Male,Black,5,28,2015,Carrollton,GA,33.5906563,-85.0489044,Gunshot,Firearm
+Kenneth Kreyssig,61,Male,White,2,10,2015,Smyrna,ME,46.1598784,-68.1000068,Gunshot,Knife
+Kenneth Mathena,52,Male,White,5,2,2015,Smyrna,DE,39.2800324,-75.6028052,Gunshot,Firearm
+Kent Norman,51,Male,White,2,21,2015,Indianapolis,IN,39.7927158,-85.9919228,Gunshot,Firearm
+Kevin Allen,36,Male,Black,5,29,2015,Lyndhurst,NJ,40.8121343,-74.1246445,Gunshot,Firearm
+Kevin Norton,36,Male,White,5,3,2015,Roosevelt,UT,40.3023154,-109.9969961,Gunshot,No
+Kimber Key,59,Male,White,4,21,2015,Columbia,SC,34.0728226,-81.1996384,Gunshot,No
+Kristiana Coignard,17,Female,White,1,22,2015,Longview,TX,32.49541,-94.746094,Gunshot,Firearm
+Kyle Baker,18,Male,White,5,28,2015,Trenton,MI,42.1408048,-83.2159779,Gunshot,No
+Larry Hostetter,41,Male,White,2,9,2015,Nocona,TX,33.78727,-97.7127638,Gunshot,Other
+Larry Kobuk,33,Male,Native American,1,28,2015,Anchorage,AK,61.218408,-149.858016,Death in custody,Knife
+Lavall Hall,25,Male,Black,2,15,2015,Miami Gardens,FL,25.9503192,-80.2074225,Gunshot,Firearm
+Ledarius Williams,23,Male,Black,2,3,2015,St Louis,MO,38.5800999,-90.2375297,Gunshot,No
+Leslie Sapp III,47,Male,Black,1,6,2015,Pittsburgh,PA,40.413045,-79.991463,Gunshot,Firearm
+Lester Brown,58,Male,White,3,9,2015,Penrose,NC,35.2702599,-82.6380997,Gunshot,Firearm
+Lewis Lembke,47,Male,White,1,2,2015,Aloha,OR,45.4866905,-122.8912506,Gunshot,No
+Lionel Young,34,Male,Black,5,10,2015,Landover,MD,38.9048424,-76.8766708,Gunshot,Firearm
+Loren Simpson,28,Male,White,1,8,2015,Huntley,MT,45.8630638,-108.3131864,Gunshot,Firearm
+Lorenzo Hayes,37,Male,Black,5,13,2015,Spokane,WA,47.7065501,-117.4032799,Death in custody,No
+Louis Becker,87,Male,White,1,14,2015,Catskill,NY,42.262431,-73.9357393,Struck by vehicle,Firearm
+Lue Vang,39,Male,Asian/Pacific Islander,4,22,2015,Boulder,CO,39.9386327,-105.2570694,Gunshot,Firearm
+Luis Chavez-Diaz,27,Male,Hispanic/Latino,4,29,2015,Elk Grove,CA,38.3685913,-121.4939194,Gunshot,Knife
+Luis Molina Martinez,35,Male,Hispanic/Latino,4,21,2015,Los Angeles,CA,34.0717621,-118.2049866,Gunshot,Firearm
+Mack Long,36,Male,Black,4,12,2015,Indianapolis,IN,39.8115999,-86.1025699,Gunshot,Vehicle
+Marcus Golden,24,Male,Black,1,14,2015,St Paul,MN,44.9580421,-93.0942535,Gunshot,Vehicle
+Marcus Wheeler,26,Male,Black,5,20,2015,Omaha,NE,41.3234673,-95.9593735,Gunshot,No
+Mario Jordan,34,Male,Black,1,14,2015,Chesapeake,VA,36.781304,-76.347865,Gunshot,Firearm
+Mark Adair,51,Male,White,4,15,2015,Columbia,MO,38.9484698,-92.3255698,Gunshot,Other
+Mark Cecil Hawkins,49,Male,White,4,24,2015,Salemburg,OR,44.913921,-122.996177,Gunshot,Firearm
+Mark Farrar,41,Male,White,5,15,2015,Rockford,IL,42.2503929,-89.0685043,Gunshot,Firearm
+Mark Smith,54,Male,White,4,8,2015,Kellyville,OK,35.9593201,-96.2797198,Gunshot,No
+Markell Atkins,36,Male,Black,2,4,2015,Memphis,TN,35.1648337,-89.9334182,Gunshot,Firearm
+Markus Clark,26,Male,Black,5,20,2015,Fort Lauderdale,FL,26.1292725,-80.1778488,,Firearm
+Matautu Nuu,35,Male,Asian/Pacific Islander,1,28,2015,Stockton,CA,38.02911,-121.3156891,Gunshot,Firearm
+Matthew Ajibade,22,Male,Black,1,1,2015,Savannah,GA,32.0666924,-81.1678772,Death in custody,Other
+Matthew Belk,27,Male,White,2,13,2015,Huntingdon,TN,35.9514389,-88.5734558,Gunshot,Other
+Matthew Coates,42,Male,White,5,16,2015,Sacramento,CA,38.5515137,-121.4342575,Gunshot,Firearm
+Matthew Hoffman,32,Male,White,1,4,2015,San Francisco,CA,37.7628479,-122.4220047,Gunshot,Other
+Matthew Lundy,32,Male,White,2,17,2015,Eaton Rapids Township,MI,42.5121727,-84.7003385,Gunshot,Other
+Matthew Metz,25,Male,White,3,3,2015,Tempe,AZ,33.4402203,-111.9308198,Gunshot,Firearm
+Meagan Hockaday,26,Female,Black,3,27,2015,Oxnard,CA,34.2278137,-119.1828842,Gunshot,No
+Michael Asher,53,Male,White,5,4,2015,Chavies,KY,37.3803482,-83.2437286,Gunshot,No
+Michael Casper,26,Male,White,2,16,2015,Boise,ID,43.5789295,-116.2223222,Gunshot,Knife
+Michael Foster,40,Male,White,4,19,2015,Wilmore,KY,37.8669354,-84.6608786,Gunshot,Non-lethal firearm
+Michael Gallagher,55,Male,White,5,10,2015,Enfield,NC,36.1811831,-77.6669817,Taser,Firearm
+Michael Goebel,29,Male,White,1,14,2015,Robertsville,MO,38.3187816,-90.7944026,Gunshot,No
+Michael Ireland,31,Male,White,2,18,2015,Springfield,MO,37.2242855,-93.3193785,Gunshot,No
+Michael Kocher Jr,19,Male,White,1,3,2015,Kaumakani,HI,21.9338608,-159.6427002,Struck by vehicle,Knife
+Michael Lemon,57,Male,,4,8,2015,Lake Isabella,CA,35.6425591,-118.4136963,Taser,Firearm
+Michael Lowrey,40,Male,White,5,22,2015,Somerset,PA,40.035759,-79.0743942,Gunshot,Knife
+Michael McKillop,35,Male,White,3,8,2015,Claymount,DE,39.8179254,-75.4563524,Gunshot,Firearm
+Michael Murphy,35,Male,White,5,7,2015,Beacon,NY,41.517724,-73.979344,Gunshot,Firearm
+Michael Rodriguez,39,Male,Hispanic/Latino,1,5,2015,Evans,CO,40.3840446,-104.6920242,Gunshot,Firearm
+Michael Smashey,37,Male,White,2,23,2015,Powder Springs,GA,33.9112854,-84.6947861,Gunshot,No
+Miguel Anguel de Santos-Rodriguez,36,Male,Hispanic/Latino,1,21,2015,Roma,TX,26.5522499,-99.1332092,Gunshot,Firearm
+Millard Tallant III,62,Male,White,5,26,2015,Snohomish,WA,47.8377751,-122.0135761,Gunshot,Knife
+Monique Deckard,43,Female,Black,3,8,2015,Anaheim,CA,33.8200747,-117.941376,Gunshot,Firearm
+Mychael Lynch,32,Male,White,3,23,2015,Vancouver,WA,45.6310601,-122.678255,Death in custody,Knife
+Nadir Soofi,34,Male,Asian/Pacific Islander,5,3,2015,Garland,TX,32.9599406,-96.6389561,Gunshot,Vehicle
+Naeschylus Vinzant,37,Male,Black,3,6,2015,Aurora,CO,39.7354916,-104.7992847,Gunshot,No
+Natasha McKenna,37,Female,Black,2,8,2015,Fairfax,VA,38.84399,-77.311132,Taser,No
+Nathan Massey,33,Male,White,1,15,2015,Ville Platte,LA,30.751305,-92.437994,Gunshot,Knife
+Nehemiah Fischer,35,Male,White,5,29,2015,Mounds,OK,35.84183,-95.8906098,Gunshot,No
+Neil Seifert,40,Male,White,3,27,2015,Webster,MA,42.0585899,-71.8781281,Gunshot,No
+Nephi Arriguin,21,Male,Black,5,7,2015,Cerritos,CA,33.8749829,-118.0503535,Gunshot,Firearm
+Nicholas Brickman,30,Male,White,1,7,2015,Des Moines,IA,41.5810397,-93.609646,Gunshot,Firearm
+Nicholas Thomas,23,Male,Black,3,24,2015,Atlanta,GA,33.86441,-84.477958,Gunshot,Knife
+Nicolas Tewa,26,Male,Native American,1,27,2015,Phoenix,AZ,33.4962463,-112.1153488,Gunshot,No
+Nikki Burtsfield,39,Female,White,5,20,2015,Gillette,WY,44.3019303,-105.4499397,Gunshot,Firearm
+Norman Cooper,33,Male,Black,4,19,2015,San Antonio,TX,29.5922401,-98.4028975,Taser,Vehicle
+Nuwnah Laroche,34,Female,Black,5,6,2015,Ridgefield Park,NJ,40.86306,-74.0112915,Struck by vehicle,Firearm
+Omarr Jackson,37,Male,Black,1,8,2015,New Orleans,LA,29.9412498,-90.0852399,Gunshot,Firearm
+Orlando Lopez,26,Male,Hispanic/Latino,1,25,2015,Pueblo,CO,38.2854206,-104.573478,Gunshot,Firearm
+Pablo Meza,24,Male,Hispanic/Latino,1,17,2015,Los Angeles,CA,34.0383897,-118.2327244,Gunshot,No
+Patrick Wetter,25,Male,White,1,6,2015,Stockton,CA,37.9297473,-121.2981304,Gunshot,Other
+Paul Anderson,31,Male,Black,4,4,2015,Anaheim,CA,33.8366709,-117.9137003,Gunshot,Knife
+Paul Campbell,49,Male,White,1,19,2015,Weymouth,MA,42.2566948,-70.9316177,Gunshot,Firearm
+Paul Johnson,59,Male,White,2,4,2015,Chino,CA,33.9534248,-117.6501793,Gunshot,No
+Pedro 'Pete' Juan Saldivar,50,Male,Hispanic/Latino,2,17,2015,Del Rio,TX,29.3685202,-100.8305995,Gunshot,No
+Philip Conley,37,Male,White,3,21,2015,Vallejo,CA,38.1320534,-122.2226868,Gunshot,Firearm
+Phillip Burgess,28,Male,White,4,9,2015,Boiling Springs,SC,35.022747,-82.0061417,Gunshot,Other
+Phillip Garcia,26,Male,Hispanic/Latino,1,16,2015,Houston,TX,29.6131928,-95.2134526,Gunshot,Firearm
+Phillip Watkins,23,Male,Black,2,11,2015,San Jose,CA,37.316599,-121.8759895,Gunshot,Firearm
+Phillip White,32,Male,Black,3,31,2015,Vineland,NJ,39.4848213,-75.0345688,Death in custody,Firearm
+Quincy Reed Reindl,24,Male,White,1,15,2015,Bloomington,MN,44.8254901,-93.35841,Gunshot,Knife
+Ralph Willis,42,Male,White,1,29,2015,Stillwater,OK,36.1211052,-97.0501251,Gunshot,Firearm
+Randall Torrence,34,Male,White,5,27,2015,Kansas City,KS,39.1362457,-94.6423798,Taser,Firearm
+Raymond Kmetz,68,Male,White,1,26,2015,Minneapolis,MN,45.035038,-93.3867416,Gunshot,Other
+Reginald McGregor,31,Male,Black,4,21,2015,Fort Worth,TX,32.7670361,-97.3038536,Gunshot,Firearm
+Richard 'Buddy' Weaver,83,Male,White,4,12,2015,Newalla,OK,35.3752202,-97.1720599,Gunshot,No
+Richard Carlin,35,Male,White,2,13,2015,Reading,PA,40.3287582,-75.9080353,Gunshot,Firearm
+Richard Castilleja,29,Male,Hispanic/Latino,3,14,2015,San Antonio,TX,29.5134506,-98.53582,Gunshot,Firearm
+Richard Davis,50,Male,Black,5,31,2015,Rochester,NY,43.1478502,-77.6309502,Taser,Firearm
+Richard Hanna,56,Male,,4,6,2015,Tehachapi,CA,35.1274796,-118.4139481,Gunshot,Firearm
+Richard McClendon,43,Male,White,1,13,2015,Jourdanton,TX,28.91159,-98.5429517,Gunshot,Firearm
+Richard Reed,38,Male,White,4,10,2015,Topeka,KS,39.0536007,-95.7618132,Gunshot,Firearm
+Richard White,63,Male,Black,3,20,2015,Kenner,LA,29.9859313,-90.2577119,Gunshot,Disputed
+Ricky Hall,27,Male,Black,3,30,2015,Fort Meade,MD,39.1066513,-76.7348022,Gunshot,Firearm
+Roark Cook,36,Male,White,5,4,2015,Kennewick,WA,46.2013702,-119.1680069,Gunshot,Firearm
+Robert Box,55,Male,White,5,29,2015,Grants Pass,OR,42.3600731,-123.4464111,Gunshot,Knife
+Robert Burdge,36,Male,White,3,19,2015,Bakersfield,CA,35.3536224,-119.3315506,Gunshot,Firearm
+Robert Edwards,68,Male,White,1,14,2015,Lake Jackson,TX,29.0344224,-95.4281493,Gunshot,No
+Robert Francis Mesch,61,Male,White,1,23,2015,Austin,TX,30.1676178,-97.7891617,Gunshot,No
+Robert Frost,46,Male,White,5,5,2015,Pulaski,VA,37.0585149,-80.7449909,Gunshot,No
+Robert Kohl,47,Male,White,2,23,2015,Denham Springs,LA,30.4504135,-90.9602784,Gunshot,Firearm
+Robert Rooker,26,Male,White,3,29,2015,Peebles,OH,39.083271,-83.2555466,Gunshot,Vehicle
+Robert Washington,37,Male,Black,4,1,2015,Hawthorne,CA,33.9017922,-118.3373257,Gunshot,No
+Roberto Leon,22,Male,Hispanic/Latino,3,17,2015,Rio Linda,CA,38.6837699,-121.4383999,Gunshot,Knife
+Roberto Ornelas,18,Male,Hispanic/Latino,1,1,2015,Key Largo,FL,25.1559029,-80.3902588,,Knife
+Roberto Rodriguez,39,Male,Hispanic/Latino,4,8,2015,Los Angeles,CA,34.0401299,-118.2106698,Gunshot,No
+Rodney Biggs,49,Male,White,2,26,2015,Gulfport,MS,30.4247537,-89.0925243,Gunshot,Other
+Rodney Walker,23,Male,Black,1,16,2015,Tulsa,OK,36.1459389,-95.9928436,Gunshot,Firearm
+Rodolfo Velazquez,47,Male,Hispanic/Latino,4,16,2015,Shafter,CA,35.4998598,-119.28055,Gunshot,Firearm
+Ronald Sneed,32,Male,Black,1,7,2015,Freeport,TX,28.9552215,-95.3685641,Gunshot,Knife
+Ronell Wade,45,Male,Black,5,17,2015,Harvey,IL,41.6037641,-87.6340616,Gunshot,No
+Roy Day,51,Male,White,2,14,2015,Laredo,TX,27.554155,-99.478091,Gunshot,Knife
+Rub�_�n Garc�__a Villalpando,31,Male,Hispanic/Latino,2,20,2015,Euless,TX,32.8722464,-97.0993902,Gunshot,Vehicle
+Russell Sharrer,54,Male,White,2,27,2015,Pasco,WA,46.2375755,-119.0959167,Death in custody,Firearm
+Ryan Burgess,31,Male,White,3,11,2015,Kingman,AZ,35.2040901,-114.0249939,Gunshot,Firearm
+Salome Rodriguez Jr,23,Male,Hispanic/Latino,3,13,2015,Pomona,CA,34.056838,-117.7509385,Gunshot,Knife
+Salvador Figueroa,29,Male,Hispanic/Latino,1,11,2015,Las Vegas,NV,36.18512,-115.116428,Gunshot,No
+Salvador Muna,28,Male,Hispanic/Latino,2,4,2015,Phoenix,AZ,33.3781938,-111.978452,Gunshot,Firearm
+Sam Holmes,31,Male,Black,5,8,2015,Fridley,MN,45.0686548,-93.2634647,Gunshot,No
+Santos 'Cuate' Cortez Hernandez,24,Male,Hispanic/Latino,4,20,2015,Mission,TX,26.2153301,-98.3257904,Gunshot,Firearm
+Sawyer Flache,27,Male,White,2,8,2015,Austin,TX,30.2470483,-97.8883914,Gunshot,No
+Scott Dunham,57,Male,White,3,24,2015,San Jose,CA,37.3052139,-121.8414917,Gunshot,Firearm
+Scott McAllister,39,Male,,5,27,2015,Middletown,NJ,40.4439697,-74.1128845,Gunshot,Non-lethal firearm
+Sean Pelletier,38,Male,White,5,14,2015,Portage,MI,42.2294236,-85.640723,Gunshot,Firearm
+Sergio Navas,34,Male,Hispanic/Latino,3,5,2015,Burbank,CA,34.1510618,-118.3435524,Gunshot,Firearm
+Shane Watkins,39,Male,White,3,19,2015,Moulton,AL,34.5668413,-87.2866505,Gunshot,Other
+Shaquille Barrow,20,Male,Black,3,2,2015,Joliet,IL,41.525211,-88.074195,Gunshot,Firearm
+Shaun Johnson,35,Male,White,5,8,2015,Kearny,AZ,33.0784683,-110.9232864,Gunshot,No
+Shawn Clyde,36,Male,White,4,1,2015,Hamilton Township,NJ,40.216132,-74.7106603,Gunshot,Firearm
+Sheldon Haleck,38,Male,Asian/Pacific Islander,3,16,2015,Honolulu,HI,21.3065129,-157.8598659,Taser,No
+Simon Hubble,33,Male,White,5,27,2015,Alpine,CA,32.750515,-116.7029652,Gunshot,Firearm
+Sinthanouxay Khottavongsa,57,Male,Asian/Pacific Islander,1,16,2015,Minneapolis,MN,45.0622444,-93.3187485,Taser,Firearm
+Stanley Grant,38,Male,Black,2,20,2015,Birmingham,AL,33.4814291,-86.8241706,Gunshot,Firearm
+Stanley Watson,72,Male,White,4,15,2015,Ca�_�on City,CO,38.4461021,-105.1917953,Gunshot,Firearm
+Stephanie Hill,37,Female,White,2,28,2015,La Paz County,AZ,32.230201,-110.982089,Gunshot,No
+Stephen Cunningham,47,Male,White,5,11,2015,Tacoma,WA,47.2285385,-122.4888763,Gunshot,Knife
+Steven Davenport,43,Male,White,4,21,2015,Meridian,MS,32.3308716,-88.5660095,Taser,No
+Steven Snyder,37,Male,White,3,24,2015,Fond du Lac,WI,43.7826881,-88.4753418,Gunshot,Firearm
+Talbot Schroeder,75,Male,White,1,14,2015,Old Bridge Township,NJ,40.4052734,-74.3010178,Gunshot,Knife
+Terence Walker,21,Male,Black,1,17,2015,Muskogee,OK,35.766201,-95.3946991,Gunshot,Firearm
+Terrance Kellom,20,Male,Black,4,27,2015,Detroit,MI,42.3648081,-83.2359631,Gunshot,Firearm
+Terrance Moxley,29,Male,Black,3,10,2015,Mansfield,OH,40.766098,-82.5142975,Taser,Firearm
+Terry Garnett Jr,37,Male,Black,3,11,2015,Elkton,MD,39.5735002,-75.8158102,Gunshot,Knife
+Terry Price,41,Male,Black,2,21,2015,Tulsa,OK,36.2059747,-96.0020301,Taser,Firearm
+Tevin Barkley,22,Male,Black,4,15,2015,Miami,FL,25.8430748,-80.2112122,Gunshot,Knife
+Thaddeus McCarroll,23,Male,Black,4,17,2015,Jennings,MO,38.7234116,-90.2447968,Gunshot,Knife
+Theodore Johnson,64,Male,Black,3,10,2015,Cleveland,OH,41.4501534,-81.6409378,Gunshot,No
+Thomas Allen Jr,34,Male,Black,3,1,2015,St Louis,MO,38.6732101,-90.2913402,Gunshot,Firearm
+Thomas Hamby,49,Male,White,1,8,2015,Syracuse,UT,41.0832634,-112.0831375,Gunshot,Firearm
+Thong Kien Ma,32,Male,Asian/Pacific Islander,5,5,2015,South El Monte,CA,34.0536053,-118.0453592,Gunshot,Knife
+Tiano Meton,25,Male,Black,1,22,2015,Sierra Blanca,TX,31.172832,-105.357927,Gunshot,Other
+Tiffany Terry,39,Female,White,1,30,2015,Omaha,NE,41.2427368,-95.9904175,Gunshot,Firearm
+Tim Elliott,53,Male,,1,2,2015,Shelton,WA,47.2465324,-123.1194992,Gunshot,Non-lethal firearm
+Timothy Jones,27,Male,White,5,17,2015,Ruidoso,NM,33.3575249,-105.6732559,Gunshot,Firearm
+Todd Allen Hodge,36,Male,White,1,21,2015,Hemet,CA,33.7417183,-116.9542389,Gunshot,Firearm
+Todd Jamal Dye,20,Male,Black,4,24,2015,Trinidad,CO,37.1747471,-104.4915234,Gunshot,Firearm
+Tommy Smith,39,Male,White,1,12,2015,Arcola,IL,39.691962,-88.3028705,Gunshot,Firearm
+Tony Robinson,19,Male,Black,3,6,2015,Madison,WI,43.0824051,-89.3650055,Gunshot,Firearm
+Tony Ross,34,Male,White,3,6,2015,Sulphur Springs,TX,33.1287286,-95.5938203,Taser,Knife
+Troy Boyd,36,Male,White,3,15,2015,Ruth,MS,31.3249302,-90.3153381,Gunshot,Firearm
+Tyrel Vick,34,Male,White,3,20,2015,Wapanucka,OK,34.476518,-96.4245157,Gunshot,Firearm
+Tyrell Larsen,31,Male,White,4,6,2015,Rigby,ID,43.6411095,-111.7173996,Gunshot,No
+Tyrone Ryerson,45,Male,Black,3,5,2015,Milwaukee,WI,42.9687729,-87.9034882,Gunshot,Non-lethal firearm
+Tyson Hubbard,34,Male,White,3,5,2015,Lincoln,NE,40.8747297,-96.6818701,Gunshot,
+,,Male,,1,16,2015,Mabank,TX,32.4071388,-96.0738907,Gunshot,Other
+,,Female,,5,25,2015,Austin,TX,32.4071388,-96.0738907,Gunshot,Knife
+,,Male,White,6,1,2015,Rochester,NY,32.4071388,-96.0738907,Gunshot,Firearm
+Victor Reyes,31,Male,Hispanic/Latino,1,31,2015,Houston,TX,29.865415,-95.524052,Gunshot,No
+Victor Terrazas,28,Male,Hispanic/Latino,3,25,2015,Los Angeles,CA,33.9436035,-118.2912674,Gunshot,Firearm
+Vincent Cordaro,57,Male,White,2,9,2015,New City,NY,41.1689186,-74.0044327,Gunshot,Firearm
+Walter Brown III,29,Male,Black,3,24,2015,Portsmouth,VA,36.8185692,-76.3703384,Gunshot,Other
+Walter Scott,50,Male,Black,4,4,2015,North Charleston,SC,32.8991127,-80.0138016,Gunshot,Knife
+Wendell King,40,Male,White,1,29,2015,Forth Worth,TX,32.6786003,-97.3807373,Gunshot,
+Wilber Castillo-Gongora,35,Male,Hispanic/Latino,2,5,2015,Electra,TX,34.044584,-98.931198,Taser,
+William 'Rusty' Smith,53,Male,White,3,10,2015,Hoover,AL,33.4149311,-86.8515567,Gunshot,No
+William Campbell,59,Male,,1,25,2015,Berlin,NJ,39.7491188,-74.929306,Gunshot,Non-lethal firearm
+William Chapman II,18,Male,Black,4,22,2015,Portsmouth,VA,36.8290138,-76.3414383,Gunshot,No
+William Dick III,28,Male,Native American,4,4,2015,Tonasket,WA,48.7085419,-119.4368286,Taser,Firearm
+William Poole,52,Male,White,3,16,2015,Gaston,NC,35.205776,-81.240669,Gunshot,Firearm
+Yuvette Henderson,38,Female,Black,2,3,2015,Oakland,CA,37.8271294,-122.2844925,Gunshot,Firearm
+Zaki Shinwary,48,Male,,1,16,2015,Fremont,CA,37.5864713,-122.0600103,Gunshot,Firearm
