@@ -107,7 +107,6 @@ public class PitGame {
     }
 
     private boolean isGameLost() {
-        // return board[playerRow][playerCol] == PIT;
         return fellIntoPit;
     }
 
