@@ -31,7 +31,6 @@ public class PitGame {
 
     // game variables
     private char[][] board; // 2dm board array
-    private boolean visited; // visited cells
     private int playerRow; // player row number
     private int playerCol; // player col number
     private int goalRow; // goal row number
@@ -200,29 +199,30 @@ public class PitGame {
                     continue; //continue the loop
             }
 
-            if (game.isValidMove(newRow, newCol)) { //checking of the move user made is valid
-                game.makeMove(newRow, newCol);
-
-                if (!game.isGoalReachable()) { // Check if the goal is not reachable
+            if (game.isValidMove(newRow, newCol)) {
+                if (!game.isGoalReachable()) {
                     game.printBoard();
                     System.out.println("Game over! The goal is unreachable. You lose!");
                     break;
                 }
-
-                if (game.isGameLost()) { //if user steps on a pit, he receives the message that we losses and game ends
+            
+                game.makeMove(newRow, newCol);
+            
+                if (game.isGameLost()) {
                     game.printBoard();
                     System.out.println("Game over! You stepped on a pit. You lose!");
                     break;
                 }
-
-                if (game.isGameWon()) { //checking if user reacher the goal and congratulate the player with this
+            
+                if (game.isGameWon()) {
                     game.printBoard();
                     System.out.println("Congratulations! You reached the goal. You win!");
-                    break; //clothing game afterwards
+                    break;
                 }
-            } else { //in case player tries to leave his "matrix"
-                System.out.println("Invalid move. You cannot leave this board, its not Matrix.");
-            }
+            } else {
+                // in case the player tries to leave the board
+                System.out.println("Invalid move. You cannot leave this board, it's not Matrix.");
+            }            
         }
         scanner.close();
     }
