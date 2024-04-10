@@ -1,0 +1,153 @@
+DROP TABLE IF EXISTS SUBJECT_MODULE_PROJECT_INCLUDES;
+DROP TABLE IF EXISTS SUBJECT_MODULE_COURSE_INCLUDES;
+DROP TABLE IF EXISTS SUBJECT_MODULE;
+DROP TABLE IF EXISTS BACHELOR_PROJECT;
+DROP TABLE IF EXISTS SUBJECT_MODULE_PROJECT;
+DROP TABLE IF EXISTS BASIC_PROJECT;
+DROP TABLE IF EXISTS ELECTIVE_COURSE;
+DROP TABLE IF EXISTS SUBJECT_MODULE_COURSE;
+DROP TABLE IF EXISTS BASIC_COURSE;
+DROP TABLE IF EXISTS PROJECT;
+DROP TABLE IF EXISTS COURSE;
+DROP TABLE IF EXISTS STUDY_ACTIVITY;
+DROP TABLE IF EXISTS BACHELOR_PROGRAMME;
+DROP TABLE IF EXISTS STUDENT;
+
+CREATE TABLE STUDENT (
+                         student_id INT PRIMARY KEY,
+                         name VARCHAR(255)
+
+);
+
+CREATE TABLE IF NOT EXISTS StudentSelections (
+                                                 selection_id INTEGER PRIMARY KEY,
+                                                 student_id INT,
+                                                 activity_name VARCHAR(255),
+                                                 FOREIGN KEY (student_id) REFERENCES STUDENT(student_id),
+                                                 FOREIGN KEY (activity_name) REFERENCES STUDY_ACTIVITY(activity_name)
+
+);
+
+CREATE TABLE BACHELOR_PROGRAMME (
+                                    programme_id INT PRIMARY KEY,
+                                    student_id INT,
+                                    bprogramme_name VARCHAR(255),
+                                    FOREIGN KEY (student_id) REFERENCES STUDENT(student_id)
+);
+
+CREATE TABLE STUDY_ACTIVITY (
+                                activity_name VARCHAR(255) PRIMARY KEY,
+                                ects_weight INT CHECK (ects_weight IN (5, 10, 15)),
+                                programme_id INT,
+                                category VARCHAR(50),
+                                FOREIGN KEY (programme_id) REFERENCES BACHELOR_PROGRAMME(programme_id)
+);
+
+CREATE TABLE COURSE (
+                        activity_name VARCHAR(255),
+                        ects_weight INT,
+                        PRIMARY KEY (activity_name),
+                        FOREIGN KEY (activity_name) REFERENCES STUDY_ACTIVITY(activity_name)
+);
+
+CREATE TABLE PROJECT (
+                         activity_name VARCHAR(255),
+                         ects_weight INT,
+                         PRIMARY KEY (activity_name),
+                         FOREIGN KEY (activity_name) REFERENCES STUDY_ACTIVITY(activity_name)
+);
+
+CREATE TABLE BASIC_COURSE (
+                              activity_name VARCHAR(255) PRIMARY KEY,
+                              FOREIGN KEY (activity_name) REFERENCES COURSE(activity_name)
+);
+
+CREATE TABLE SUBJECT_MODULE_COURSE (
+                                       activity_name VARCHAR(255),
+                                       module_name VARCHAR(255),
+                                       PRIMARY KEY (activity_name),
+                                       FOREIGN KEY (activity_name) REFERENCES COURSE(activity_name)
+);
+
+CREATE TABLE ELECTIVE_COURSE (
+                                 activity_name VARCHAR(255) PRIMARY KEY,
+                                 FOREIGN KEY (activity_name) REFERENCES COURSE(activity_name)
+);
+
+CREATE TABLE BASIC_PROJECT (
+                               activity_name VARCHAR(255) PRIMARY KEY,
+                               FOREIGN KEY (activity_name) REFERENCES PROJECT(activity_name)
+);
+
+CREATE TABLE SUBJECT_MODULE_PROJECT (
+                                        activity_name VARCHAR(255),
+                                        module_name VARCHAR(255),
+                                        PRIMARY KEY (activity_name),
+                                        FOREIGN KEY (activity_name) REFERENCES PROJECT(activity_name)
+);
+
+CREATE TABLE BACHELOR_PROJECT (
+                                  activity_name VARCHAR(255) PRIMARY KEY,
+                                  FOREIGN KEY (activity_name) REFERENCES PROJECT(activity_name)
+);
+
+CREATE TABLE SUBJECT_MODULE (
+    module_name VARCHAR(255) PRIMARY KEY
+);
+
+CREATE TABLE SUBJECT_MODULE_COURSE_INCLUDES (
+                                                module_name VARCHAR(255),
+                                                activity_name VARCHAR(255),
+                                                PRIMARY KEY (module_name, activity_name),
+                                                FOREIGN KEY (module_name) REFERENCES SUBJECT_MODULE(module_name),
+                                                FOREIGN KEY (activity_name) REFERENCES SUBJECT_MODULE_COURSE(activity_name)
+);
+
+CREATE TABLE SUBJECT_MODULE_PROJECT_INCLUDES (
+                                                 module_name VARCHAR(255),
+                                                 activity_name VARCHAR(255),
+                                                 PRIMARY KEY (module_name, activity_name),
+                                                 FOREIGN KEY (module_name) REFERENCES SUBJECT_MODULE(module_name),
+                                                 FOREIGN KEY (activity_name) REFERENCES SUBJECT_MODULE_PROJECT(activity_name)
+);
+-- Insert BACHELOR_PROGRAMME
+INSERT INTO BACHELOR_PROGRAMME (programme_id, student_id,  bprogramme_name) VALUES (1, 1, 'Humtek');
+
+-- Insert basic courses and projects with their categories
+INSERT INTO STUDY_ACTIVITY (activity_name, ects_weight, programme_id, category) VALUES
+                                                                                    ('Basic Course 1', 5, 1, 'Basic'),
+                                                                                    ('Basic Course 2', 5, 1, 'Basic'),
+                                                                                    ('Basic Course 3', 5, 1, 'Basic'),
+                                                                                    ('Basic Course 4', 5, 1, 'Basic'),
+                                                                                    ('Basic Course 5', 5, 1, 'Basic'),
+                                                                                    ('Basic Course 6', 5, 1, 'Basic'),
+                                                                                    ('Basic Course 7', 5, 1, 'Basic'),
+                                                                                    ('Basic Course 8', 5, 1, 'Basic'),
+                                                                                    ('Basic Course 9', 5, 1, 'Basic'),
+                                                                                    ('Bachelor Project', 15, 1, 'Basic');
+
+-- Insert subject module courses and projects with their categories
+INSERT INTO STUDY_ACTIVITY (activity_name, ects_weight, programme_id, category) VALUES
+                                                                                    ('Organizational change and IT', 5, 1, 'Informatics'),
+                                                                                    ('User-driven analysis and design of IT systems', 5, 1, 'Informatics'),
+                                                                                    ('Web-based IT systems', 10, 1, 'Informatics'),
+                                                                                    ('Informatics Project', 15, 1, 'Informatics'),
+                                                                                    ('Essential Computing', 5, 1, 'Computer Science'),
+                                                                                    ('Interactive Digital Systems', 5, 1, 'Computer Science'),
+                                                                                    ('Software Development', 10, 1, 'Computer Science'),
+                                                                                    ('Computer Science Project', 15, 1, 'Computer Science');
+
+-- Insert elective courses with their category
+INSERT INTO STUDY_ACTIVITY (activity_name, ects_weight, programme_id, category) VALUES
+                                                                                    ('Elective Course 1', 5, 1, 'Elective'),
+                                                                                    ('Elective Course 2', 5, 1, 'Elective'),
+                                                                                    ('Elective Course 3', 5, 1, 'Elective'),
+                                                                                    ('Elective Course 4', 5, 1, 'Elective'),
+                                                                                    ('Elective Course 5', 5, 1, 'Elective'),
+                                                                                    ('Elective Course 6', 5, 1, 'Elective');
+
+--Query the total ects points for the student
+SELECT SUM(s.ects_weight) AS total_chosen_ects
+FROM StudentSelections ss
+         JOIN STUDY_ACTIVITY s ON ss.activity_name = s.activity_name
+WHERE ss.student_id = 1;
