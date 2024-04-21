@@ -1,5 +1,0 @@
-pygame
-smtplib
-imaplib
-email
-uuid

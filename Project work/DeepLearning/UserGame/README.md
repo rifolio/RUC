@@ -1,5 +1,7 @@
 # Wumpus wold game
 
+THE GAME IS NOT UPDATED FOR GITHUB FULLY! YET TO BE EDITED
+
 This game created for human players in order to collect data for our project.
 
 ## Getting ready to play:
